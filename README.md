@@ -24,6 +24,7 @@ def swap():
     print("After swap second number is:", ival2)
 
 swap()
+
 2. How to check number is prime or not.
 def prime():
     ival = int(input("Enter the number: "))
